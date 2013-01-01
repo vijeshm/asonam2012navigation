@@ -1,0 +1,97 @@
+\begin{thebibliography}{10}
+
+\bibitem{adamic02}
+L.~A. Adamic, R.~M. Lukose, and B.~A. Huberman.
+\newblock Local search in unstructured networks.
+\newblock In {\em Handbook of Graphs and Networks}, pages 295--317. Wiley-VCH,
+  2003.
+
+\bibitem{adamic01}
+L.~A. Adamic, R.~M. Lukose, A.~R. Puniyani, and B.~A. Huberman.
+\newblock Search in power-law networks.
+\newblock {\em Physical Review E}, 64(4):046135+, September 2001.
+
+\bibitem{barabasi02}
+R.~Albert and A.~L. Barab\'{a}si.
+\newblock {Statistical mechanics of complex networks}.
+\newblock {\em Reviews of Modern Physics}, 74(1):47--97, January 2002.
+
+\bibitem{cajueiro09}
+D.~O. Cajueiro and R.~F.~S. Andrade.
+\newblock Learning paths in complex networks.
+\newblock {\em EPL (Europhysics Letters)}, 87(5):58004, 2009.
+
+\bibitem{crespo02}
+A.~Crespo and H.~Garcia-molina.
+\newblock Routing indices for peer-to-peer systems, 2002.
+
+\bibitem{dragan11}
+F.~F. Dragan and M.~Matamala.
+\newblock Navigating in a graph by aid of its spanning tree metric.
+\newblock 25(1):306--332, 2011.
+
+\bibitem{erdos60}
+P.~Erd{\"{o}}s and A.~Renyi.
+\newblock {On the evolution of random graphs}.
+\newblock {\em Publications of the Mathematical Institute of the Hungarian
+  Academy of Sciences}, 5:17--61, 1960.
+
+\bibitem{gavoille99}
+C.~Gavoille.
+\newblock A survey on interval routing.
+\newblock {\em Theoretical Computer Science}, 245:785--796, 1999.
+
+\bibitem{gavoille01}
+C.~Gavoille.
+\newblock Routing in distributed networks: overview and open problems.
+\newblock {\em SIGACT News}, 32:36--52, March 2001.
+
+\bibitem{gavoille04}
+C.~Gavoille, D.~Peleg, S.~P\'{e}rennes, and R.~Raz.
+\newblock Distance labeling in graphs.
+\newblock {\em Journal of Algorithms}, 53(1):85--112, 2004.
+
+\bibitem{giordano01}
+S.~Giordano, I.~Stojmenovic, and L.~Blazevic.
+\newblock Position based routing algorithms for ad hoc networks: A taxonomy.
+\newblock In {\em Ad Hoc Wireless Networking}, pages 103--136. Kluwer, 2001.
+
+\bibitem{sudarshan11}
+Sudarshan Iyengar, Nina Zweig, Abhiram Natarajan, and Veni Madhavan.
+\newblock A network analysis approach to understand human-wayfinding problem.
+\newblock In {\em CogSci 2011 Proceedings}, number~33, pages 2836--2841, July
+  2011.
+
+\bibitem{kleinberg-2-00}
+J.~Kleinberg.
+\newblock {Navigation in a small world}.
+\newblock {\em Nature}, 406:845, 2000.
+
+\bibitem{kleinberg06}
+J.~Kleinberg.
+\newblock {Complex Networks and Decentralized Search Algorithms}.
+\newblock In {\em In Proceedings of the International Congress of
+  Mathematicians (ICM}, 2006.
+
+\bibitem{kleinberg-1-00}
+Jon Kleinberg.
+\newblock {The Small-World Phenomenon: An Algorithmic Perspective}.
+\newblock In {\em Proceedings of the 32nd ACM Symposium on Theory of
+  Computing}, 2000.
+
+\bibitem{milgram67}
+S.~Milgram.
+\newblock {The Small World Problem}.
+\newblock {\em Psychology Today}, 1:61--67, 1967.
+
+\bibitem{Sabidussi66}
+G.~Sabidussi.
+\newblock {The centrality index of a graph}.
+\newblock {\em Psychometrika}, 31, 1966.
+
+\bibitem{simsek08}
+O.~Simsek and D.~Jensen.
+\newblock {Navigating networks by using homophily and degree}.
+\newblock {\em Proceedings of the National Academy of Sciences}, 105, 2008.
+
+\end{thebibliography}
